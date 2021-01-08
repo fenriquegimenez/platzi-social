@@ -1,0 +1,30 @@
+{
+  "name": "practico-nodejs",
+  "version": "0.1.0",
+  "description": "Red social hecha en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenriquegimenez/platzi-social.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "platzi",
+    "express",
+    "backend",
+    "MySql"
+  ],
+  "author": "Enrique Gimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenriquegimenez/platzi-social/issues"
+  },
+  "homepage": "https://github.com/fenriquegimenez/platzi-social#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
